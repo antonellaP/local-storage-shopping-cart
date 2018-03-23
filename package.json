@@ -1,0 +1,20 @@
+{
+  "name": "local-storage-shopping-cart",
+  "version": "1.0.0",
+  "description": "Simple JS-powered shopping cart with local storage (no payment integration, just front-end)",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/styles.scss css/styles.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonellaP/local-storage-shopping-cart.git"
+  },
+  "author": "Maria Antonietta Perna",
+  "license": "MIT",
+  "homepage": "https://github.com/antonellaP/local-storage-shopping-cart#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
