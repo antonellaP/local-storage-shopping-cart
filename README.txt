@@ -11,3 +11,5 @@ Web technologies used:
 - CSS Clip-path
 - HTML5 Local Storage
 - Vanilla JS
+
+Project can be previewed on https://codepen.io/antonietta/full/MVedpj/
